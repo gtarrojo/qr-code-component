@@ -28,6 +28,7 @@ body {
 .qr__heading {
   color: #1f314f;
   font-size: 20px;
+  font-weight: 700;
 }
 
 .qr__text {
