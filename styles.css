@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+.qr__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.qr {
+  width: 320px;
+  height: 499px;
+  background-color: #ffffff;
+  padding: 16px 16px 40px 16px;
+  border-radius: 12px;
+  box-shadow: ;
+}
+
+.qr__img {
+  width: 288px;
+  height: 288px;
+  border-radius: 12px;
+}
+
+.qr__heading {
+  color: #1f314f;
+  font-size: 20px;
+}
+
+.qr__text {
+  color: #68778d;
+  font-size: 16px;
+}
